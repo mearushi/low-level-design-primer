@@ -23,8 +23,6 @@ Question | Solutions | Videos
  | Design a Json Parser from scratch | [Solution-1](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/) [Solution-2](https://www.infoq.com/articles/HIgh-Performance-Parsers-in-Java-V2/)[Solution-3](https://notes.eatonphil.com/writing-a-simple-json-parser.html) | -
  |Design Elevator | [Solution-1](https://medium.com/system-designing-interviews/design-a-elevator-system-fc5832ca0b8b) [Solution-2](https://leetcode.com/discuss/interview-question/object-oriented-design/124660/ood-design-elevator) [Solution-3](https://massivetechinterview.blogspot.com/2015/07/thought-works-object-oriented-design.html)
 | CricInfo/Cricbuzz |[Solution-1](https://github.com/naval41/Low-Level-Design/tree/master/CricketPortal/src/com/codemate/cric) [Solution-2](https://github.com/gopalbala/cric-score)| [Video-1](https://www.youtube.com/watch?v=VDqwCo6lhkY&list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd&index=6) [Video-2](https://youtu.be/ZTZaUYFqLNw) 
-| TikTok| - | [Video-1](https://www.youtube.com/watch?v=vpa2vQdF-AI&t=2031s)
-| Pinterest | - | [Video-1](https://www.youtube.com/watch?v=TlkTbkM69ns)
 | Movie Ticket Booking | [Solution-1](https://github.com/anomaly2104/ticket-booking-low-level-system-design) | [Video-1](https://www.youtube.com/playlist?list=PL564gOx0bCLpAL7yMJqOuK3_hBuLkyRhn)|
 | Uber Eats/ Door dash/ Swiggy| [Solution-1](https://github.com/mayankbansal93/lld-food-delivery-zomato-swiggy) | [Video-1](https://www.youtube.com/watch?v=LePt0PUKIjE&list=PLHNJ91XSF3wzT6BaLVi4WbnuHcfZSXMek&index=5)
 | e-Commerce Review System| [Solution-1](https://github.com/gopalbala/reviews) | [Video-1](https://www.youtube.com/watch?v=bKiCkExbe-Y)
